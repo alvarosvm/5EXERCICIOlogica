@@ -1,0 +1,2 @@
+# 5EXERCICIOlogica
+operadores logicos
